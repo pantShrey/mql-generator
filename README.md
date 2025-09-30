@@ -28,7 +28,7 @@ An intelligent Next.js application that converts natural language queries into M
 
 1. **Clone the repository**
    ```bash
-   git clone mql-generator
+   git clone https://github.com/pantShrey/mql-generator.git
    cd mql-generator
    ```
 
