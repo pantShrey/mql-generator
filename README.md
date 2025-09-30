@@ -96,6 +96,7 @@ An intelligent Next.js application that converts natural language queries into M
 ├── lib/
 │   ├── schema-templates.ts    # Schema definitions and templates
 │   └── gemini.ts              # AI query enhancement and MQL generation
+│   └── ...
 ├── types/                     # TypeScript type definitions
 ├── .env.local.example         # Example env vars
 └── README.md                  # Project documentation
