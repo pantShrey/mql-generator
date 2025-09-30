@@ -11,6 +11,10 @@ An intelligent Next.js application that converts natural language queries into M
 - **Custom Schema Support**: Build and test queries on your own MongoDB schemas
 - **Modern UI**: Clean, responsive interface built with TypeScript and Tailwind CSS
 
+##  Live Demo
+
+**[Try it out here!](https://mql-generator.vercel.app/)**
+
 ##  Getting Started
 
 ### Prerequisites
